@@ -56,7 +56,7 @@
 #### Restaurant: 
 |Name|Location|Contact|
 | -------- | -------- | -------- |
-|ExempleRest|Street_Guarda|200000000|
+|ExampleRest|Street_Guarda|200000000|
 
 ##### Dishes: 
 |Name of plate |Origin |Descripiton of the plate|
