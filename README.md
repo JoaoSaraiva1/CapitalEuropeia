@@ -45,7 +45,7 @@
 :trophy: A little of the history of the Restaurants and of its most typical dishes of the region
 
 
-> Status do Projeto: Under development :warning:
+> Status of the Project: Under development :warning:
 
 ### Listas de funcionalidades
 - Show the names of the restaurants in a list
@@ -56,12 +56,12 @@
 #### Restaurant: 
 |Name|Location|Contact|
 | -------- | -------- | -------- |
-|ExemploRestau|Rua_Guarda|200000000|
+|ExempleRest|Street_Guarda|200000000|
 
 ##### Dishes: 
 |Name of plate |Origin |Descripiton of the plate|
 | -------- | -------- | -------- |
-|Bacalhau|Guarda|Este prato retrata...|
+|Codfish|Guarda|This plate's story...|
 
 
 
