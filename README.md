@@ -14,13 +14,18 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
+### Listas de funcionalidades
+- Mostrar Nome dos Restaurantes numa lista
+    - Uma descriçao/historia do Restaurante 
+- Mostrar Nome dos Pratos do Restaurante numa lista
+    - Uma descriçao/historia do prato ( origem do mesmo )
 
-### Restaurante: 
+#### Restaurante: 
 |Nome|Localizaçao|Contacto|
 | -------- | -------- | -------- |
 |ExemploRestau|Rua_Guarda|200000000|
 
-#### Pratos: 
+##### Pratos: 
 |NomeDoPrato|Origem|Descriçao Do Prato|
 | -------- | -------- | -------- |
 |Bacalhau|Guarda|Este prato retrata...|
