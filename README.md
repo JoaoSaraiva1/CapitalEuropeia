@@ -31,7 +31,7 @@
 |Bacalhau|Guarda|Este prato retrata...|
 
 
-# CapitalEuropeia
+# CapitalEuropeia (English)
 
 <p align="justify"> This work consists on the criation of gastronomic guide for the "cidade da guarda 2027" where in presenting the "typical" restaurants and their menus we present a brief history of the typical dishes of the region and the connection to gastronomic events that are taking place in the region </p>
 
