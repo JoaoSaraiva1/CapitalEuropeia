@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -17,7 +17,7 @@
 </head>
 <body id="page-top">
     <!-- Navigation-->
-    <!--<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,31 +26,25 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href=About.html>About</a></li>
+                    <li class="nav-item"><a class="nav-link" href=#about>About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
                 </ul>
             </div>
         </div>
-    </nav>-->
-	
-  <nav>
-    <div class="nav-wrapper">
-      <a href="D:\Downloads\Universidade\Programação para a internet" class="brand-logo"></a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-        <li><a href="collapsible.html">JavaScript</a></li>
-      </ul>
-    </div>
-  </nav>
-            <!-- Masthead-->
+    </nav>
+    <!-- Masthead-->
     <header class="masthead">
         <div class="container d-flex h-100 align-items-center">
             <div class="mx-auto text-center">
                 <h1 class="mx-auto my-0 text-uppercase">Guia Gastronomico Guarda</h1>
+<<<<<<< HEAD:trabalho/CapitalEuropeia/Views/Home/Index.cshtml
                 <h2 class="text-white-50 mx-auto mt-2 mb-5">Neste site pode encontrar restaurantes e seus pratos mais tipicos da zona da Guarda.</h2>
                 <a class="btn btn-primary js-scroll-trigger" href="#about">Informações</a>
+=======
+                <h2 class="text-white-50 mx-auto mt-2 mb-5">Aqui temos uma lista completa de todos os restaurantes e seus pratos mais tipicos da zona da Guarda.</h2>
+                <a class="btn btn-primary js-scroll-trigger" href="#about">Get Started</a>
+>>>>>>> master:CapitalEuropeia/Views/Home/Index.cshtml
             </div>
         </div>
     </header>
@@ -62,7 +56,7 @@
                     <h2 class="text-white mb-4">Built with Bootstrap 4</h2>
                     <p class="text-white-50">
                         Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                        <a href="https://startbootstrap.com/theme/grayscale/">the preview page</a>
+                        <a href="Privacy.html">the preview page</a>
                         . The theme is open source, and you can use it for any purpose, personal or commercial.
                     </p>
                 </div>
@@ -140,10 +134,15 @@
                             <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Address</h4>
                             <hr class="my-4" />
+<<<<<<< HEAD:trabalho/CapitalEuropeia/Views/Home/Index.cshtml
                             <div class="small text-black-50">
                                 Avenida Dr. Francisco Sá Carneiro, n.º 50
                                 6300-559 Guarda
                             </div>
+=======
+                            <div class="small text-black-50"> Avenida Dr. Francisco Sá Carneiro, n.º 50
+                                6300-559 Guarda</div>
+>>>>>>> master:CapitalEuropeia/Views/Home/Index.cshtml
                         </div>
                     </div>
                 </div>
@@ -170,7 +169,11 @@
             </div>
             <div class="social d-flex justify-content-center">
                 <a class="mx-2" href="https://www.facebook.com/pg/politecnicodaguarda/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+<<<<<<< HEAD:trabalho/CapitalEuropeia/Views/Home/Index.cshtml
                 <a class="mx-2" href="https://www.instagram.com/politecnicodaguarda/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+=======
+                <a class="mx-2" href="#!"><i class="fab fa-instagram"></i></a>
+>>>>>>> master:CapitalEuropeia/Views/Home/Index.cshtml
                 <a class="mx-2" href="https://github.com/JoaoSaraiva1/CapitalEuropeia" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
             </div>
         </div>
